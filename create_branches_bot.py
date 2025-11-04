@@ -1,8 +1,8 @@
 import requests
 
 GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
-REPO_OWNER = "Keruki2005"
-REPO_NAME = "1001-branches"
+REPO_OWNER = "your github user name"
+REPO_NAME = "your repo name"
 DEFAULT_BRANCH = "main"
 NUMBER_OF_BRANCHES = 1000  # Change as needed
 
